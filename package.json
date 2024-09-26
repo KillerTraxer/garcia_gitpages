@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://killertraxer.github.io/garcia_gitpages",
+  "homepage": "https://garciapages.netlify.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/garcia_gitpages/",
